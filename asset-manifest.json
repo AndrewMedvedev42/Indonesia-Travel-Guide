@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Indonesia-Travel-Guide/static/css/main.83e519d1.css",
+    "main.js": "/Indonesia-Travel-Guide/static/js/main.54bc53f0.js",
+    "static/js/787.4e1e4bbf.chunk.js": "/Indonesia-Travel-Guide/static/js/787.4e1e4bbf.chunk.js",
+    "index.html": "/Indonesia-Travel-Guide/index.html",
+    "main.83e519d1.css.map": "/Indonesia-Travel-Guide/static/css/main.83e519d1.css.map",
+    "main.54bc53f0.js.map": "/Indonesia-Travel-Guide/static/js/main.54bc53f0.js.map",
+    "787.4e1e4bbf.chunk.js.map": "/Indonesia-Travel-Guide/static/js/787.4e1e4bbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83e519d1.css",
+    "static/js/main.54bc53f0.js"
+  ]
+}
