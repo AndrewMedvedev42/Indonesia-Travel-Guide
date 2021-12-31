@@ -1,6 +1,6 @@
 export const LandingSection:React.FC = () => {
     return (
-        <section>
+        <section className="page-section">
             <article>
                 <h1>Title</h1>
                 <div></div>

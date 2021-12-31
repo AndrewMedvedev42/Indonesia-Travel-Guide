@@ -1,7 +1,7 @@
 export const NavigationMenu:React.FC = () => {
     return (
-        <nav>
-            <img src="#" alt="logo" />
+        <nav className="navigation-bar">
+            <span>INDONESIA</span>
             <ul>
                 <li>About</li>
                 <li>Map</li>

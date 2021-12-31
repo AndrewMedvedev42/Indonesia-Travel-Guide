@@ -1,6 +1,6 @@
 export const GallerySection:React.FC = () => {
     return (
-        <section>
+        <section className="page-section">
             <article>
                 <img src="#" alt="img" />
             </article>

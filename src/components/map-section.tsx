@@ -2,7 +2,7 @@ import { ShareSection } from "./share-section";
 
 export const MapSection:React.FC = () => {
     return (
-        <section>
+        <section className="page-section">
             <article>
                 Map
             </article>

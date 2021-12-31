@@ -13,7 +13,7 @@ export const NineTipsSection:React.FC = () => {
     ]
 
     return (
-        <section>
+        <section className="page-section">
             <article>
                 <h2>Title</h2>
                 <section>

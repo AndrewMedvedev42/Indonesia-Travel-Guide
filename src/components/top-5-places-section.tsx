@@ -11,7 +11,7 @@ export const TopFivePlacesSection:React.FC = () => {
     ]
 
     return (
-        <section>
+        <section className="page-section">
             <article>
                 <h2></h2>
                 <section>

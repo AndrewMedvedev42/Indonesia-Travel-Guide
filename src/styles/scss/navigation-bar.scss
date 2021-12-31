@@ -1,0 +1,19 @@
+.navigation-bar{
+    padding: 21px 120px;
+    border: navy 5px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    span{
+        font-size: 35PX;
+        font-weight: 900;
+    }
+    ul{
+       display: flex;
+       li{
+           font-size: 14px;
+           margin-left: 45px;
+           list-style: none;
+       }
+    }
+}

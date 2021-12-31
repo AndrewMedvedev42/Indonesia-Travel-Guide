@@ -19,7 +19,7 @@ export const HistorySection:React.FC = () => {
         {date:"--/--/--", title:"Title", text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
     ]
     return (
-        <section>
+        <section className="page-section">
             <article>
                 <h2>History</h2>
                 <section>

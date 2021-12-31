@@ -1,0 +1,24 @@
+.about-project-section {
+  display: flex;
+  justify-content: flex-end; }
+  .about-project-section .section-container {
+    width: 50%; }
+    .about-project-section .section-container h2 {
+      font-size: 32px; }
+    .about-project-section .section-container ul {
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-flow: row wrap; }
+      .about-project-section .section-container ul li {
+        border-radius: 15px;
+        margin-bottom: 15px;
+        list-style: none;
+        margin-right: 10px;
+        padding: 16px 28px;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); }
+    .about-project-section .section-container article {
+      display: flex; }
+      .about-project-section .section-container article span {
+        font-size: 70px;
+        color: #87CE66; }

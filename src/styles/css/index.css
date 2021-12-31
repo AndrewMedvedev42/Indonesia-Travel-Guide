@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif; }
+
+.page-container {
+  border: chocolate 5px solid; }
+
+.page-section {
+  width: 80%;
+  margin: 0 auto 4rem;
+  border: crimson 5px solid; }
+
+.share-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; }
+  .share-section span, .share-section div {
+    margin: 0 47px; }
+  .share-section span {
+    font-size: 21px; }
+  .share-section div .social-icon {
+    color: #87CE66;
+    margin-left: 20px; }

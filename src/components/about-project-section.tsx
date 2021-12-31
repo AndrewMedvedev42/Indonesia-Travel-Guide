@@ -1,17 +1,16 @@
 export const AboutProjectSection:React.FC = () => {
     return (
-        <section>
-            <article>
-                <h2>Title</h2>
-                <div>
-                    <span>Tag</span>
-                    <span>Tag</span>
-                    <span>Tag</span>
-                    <span>Tag</span>
-                    <span>Tag</span>
-                </div>
+        <section className="page-section about-project-section">
+            <article className="section-container">
+                <h2>This project was created for:</h2>
+                <ul>
+                    <li>Beginners and experienced travelers</li>
+                    <li>Travelers</li>
+                    <li>Dreamers</li>
+                    <li>Brave</li>
+                </ul>
                 <article>
-                    <img src="#" alt='"' />
+                    <span>``</span>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
                 </article>
             </article>

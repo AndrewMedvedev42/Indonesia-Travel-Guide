@@ -4,8 +4,8 @@ import { BsFacebook, BsInstagram, BsTwitter } from "react-icons/bs";
 export const ShareSection:React.FC = () => {
     const [iconSize, setIconSize] = useState(37)
     return (
-        <article>
-                <span></span>
+        <article className="share-section">
+                <span>Share the sights of Indonesia on social networks</span>
                 <div>
                     <BsFacebook size={iconSize} className="social-icon"/>
                     <BsTwitter size={iconSize} className="social-icon"/>

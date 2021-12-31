@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <NavigationMenu/>
-      <section>
+      <section className="page-container">
         <LandingSection/>
         <AboutProjectSection/>
         <MapSection/>
