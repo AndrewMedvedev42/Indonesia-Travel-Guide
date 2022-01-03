@@ -1,0 +1,10 @@
+.history-list .history-slot {
+  display: flex; }
+  .history-list .history-slot div {
+    width: 40%;
+    transform: rotate(7deg); }
+
+.history-list .history-slot-even {
+  justify-content: flex-end; }
+  .history-list .history-slot-even div {
+    transform: rotate(-7deg); }

@@ -5,17 +5,23 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.map {
+    width: 100%;
+    height: 300px; 
+    border-radius: 20px;
+}
+
 .page-container{
     border: chocolate 5px solid;
 }
 
 .page-section{
     width: 80%;
-    margin: 0 auto 4rem;
-    border: crimson 5px solid;
+    margin: 0 auto 2rem;
 }
 
 .share-section{
+    margin-top: 48px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -24,6 +30,7 @@ body{
     }
 
     span{
+
         font-size: 21px;
     }
     div{
@@ -31,5 +38,30 @@ body{
             color: $base-color;
             margin-left: 20px;
         }
+    }
+}
+
+.slot{
+    padding: 15px 18px;
+    // border:yellowgreen 5px solid;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.15);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    .highlight-title{
+        padding: 12px 24px;
+        background-color: $base-color;
+        border-radius: 15px;
+        color: white;
+        font-size: 25px;
+    }
+    .slot-title{
+        font-size: 20px;
+        margin: 0;
+    }
+    .slot-text{
+        font-size: -10px;
     }
 }
